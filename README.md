@@ -24,7 +24,7 @@ source .venv/bin/activate
 ### 2. requirements.txt をインポートする
 
 ```bash
-pip install -r .\requirements.txt
+pip install -r requirements.txt
 ```
 <br>
 
