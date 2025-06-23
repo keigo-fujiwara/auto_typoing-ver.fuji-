@@ -48,8 +48,10 @@ python auto_typing.py
 実行すると以下のURLが開きます：
 https://typing.be-engineer.tech
 <br>
+
 タイピングが自動で動作します。
 <br>
+
 🛠 藤原が改造し、永遠にランダムに項目を選択し、自動タイピングが動作する仕様です。
 <br>
 
